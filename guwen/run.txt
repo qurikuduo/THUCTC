@@ -1,0 +1,4 @@
+java -jar D:\\work\\分类算法\\THUCTC_java_v1_run\\THUCTC_java_v1_run.jar -l D:\\work\\分类算法\\news_model_51 -n 2  -classify D:\\work\\分类算法\\yanzheng\\qinyuanchun.txt
+
+java -jar D:\\work\\分类算法\\THUCTC_java_v1_run\\THUCTC_java_v1_run.jar -l D:\\work\\分类算法\\news_model_51\\20220901_001 -n 2  -classify D:\\work\\分类算法\\yanzheng\\qinyuanchun.txt
+

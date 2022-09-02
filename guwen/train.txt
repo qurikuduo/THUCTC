@@ -1,0 +1,7 @@
+windows:
+java -jar D:\\work\\分类算法\\THUCTC_java_v1_run\\THUCTC_java_v1_run.jar -train D:\\work\\分类算法\\THUCNews -s D:\\work\\分类算法\\news_model_51 -XX:PermSize=512m -XX:MaxPermSize=4096m -XX:-UseGCOverheadLimit -Xmx25102m
+
+ 
+mac:
+java -jar THUCTC_java_v1_run.jar -train /Users/xx/Documents/work/分类算法/THUCNews -s /Users/xx/Documents/work/分类算法/news_model_51 -XX:PermSize=1024m -XX:MaxPermSize=4096m -XX:-UseGCOverheadLimit -Xmx32102m -Xms20102m 
+ 
